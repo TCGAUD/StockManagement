@@ -1,0 +1,24 @@
+#myblock {
+    background-color: whitesmoke;
+    padding: 11px;
+}
+#itemsrecievedblock {
+    width: 100%;
+}
+
+#removestockBlock{
+    background-color: whitesmoke;
+    padding: 11px;
+}
+#blockstyles {
+    background-color: white;
+    padding-left: 1%;
+    width: 60%;
+}
+#productName {
+    display: contents;
+    float: left;
+}
+h3{
+    display: contents;
+}
